@@ -8,6 +8,6 @@ A playful web app that focuses on using jQuery to interact with the user's inter
 
 ## Features
 - Utalizes jQuery library, JavaScript, CSS, and HTML
-- Takes imput from the user and updates & edits HMTL acordingly
+- Takes input from the user and updates & edits HMTL acordingly
 - Implements computer logic to keep track of and display the users score
 
