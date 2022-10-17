@@ -118,7 +118,7 @@ catQuiz.submitOnRadio = () => {
 }
 
 catQuiz.restart = () => {
-    $(".restart").click(function() {
+    $(".restart").click(() => {
     location.reload();
     })
 }
