@@ -1,6 +1,6 @@
 
 # The Ladies: A Cat Quiz 😸
-<a href="https://itsoliviasparks-the-ladies-cat-quiz.netlify.app">Live Site</a>
+<a href="https://itsoliviasparks-the-ladies-cat-quiz.netlify.app">🔗 Live Site</a>
 
 ## About
 The dynamic duo, widely referred to as The Ladies, are my two cats. They each have their own unique quirks-- How well do you know them?
